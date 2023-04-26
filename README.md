@@ -17,3 +17,9 @@ Experience:
 - Experience with Java (IntelliJ IDEA);
 - Ability to deal with multiple projects;
 - Keen eye to details, responsible, self-organized;
+
+Projects:
+- Project Name: KIA (Jun 2022 - still)
+- Project Name: Just Whisky (Jan 2022 - Jun 2022)
+- Project Name: Gym Scope (Jan 2022 - Jun 2022)
+- Project Name: Promed (Oct 2020 - Jan 2022)
