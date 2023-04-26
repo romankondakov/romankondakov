@@ -23,3 +23,8 @@ Projects:
 - Project Name: Just Whisky (Jan 2022 - Jun 2022)
 - Project Name: Gym Scope (Jan 2022 - Jun 2022)
 - Project Name: Promed (Oct 2020 - Jan 2022)
+
+Courses:
+- QA Start UP: Manual Test Engineer
+- Hillel: Java Basic
+- Hillel: QA Automation Java
